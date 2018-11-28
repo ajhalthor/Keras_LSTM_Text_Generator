@@ -1,4 +1,4 @@
-# Text Generator (Numpy RNN)
+# Text Generator (LSTM + Keras)
 
 The code builds an LSTM to generate text using Keras. Watch [this](https://nodejs.org/) video by Ajay Halthor to see a live demo and understand the intuition behind Recurrent Neural Networks.
 
