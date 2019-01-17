@@ -1,6 +1,6 @@
 # Text Generator (LSTM + Keras)
 
-The code builds an LSTM to generate text using Keras. Watch [this](https://nodejs.org/) video by Ajay Halthor to see a live demo and understand the intuition behind Recurrent Neural Networks.
+The code builds an LSTM to generate text using Keras. Watch [this](https://www.youtube.com/watch?v=QciIcRxJvsM) video by Ajay Halthor to see a live demo and understand the intuition behind Recurrent Neural Networks.
 
 ### Dependencies
   - python=3.6.0
